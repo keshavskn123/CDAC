@@ -1,22 +1,4 @@
 
-
-Publicly accessible notes about my pentesting/red teaming experiments tested on several controlled environments/infrastructures that involve playing with various tools and techniques used by penetration testers and redteamers during a security assessment.
-
- Project in progress
-Contribute
-We welcome contributions as github pull requests.
-Kudos and thanks for the people who did the hard stuff
-
-Goals
-Pentest/red team cheatsheet that collects snippets of codes and commands to help pentester during an engagement(saving time/fast search for a specific command).
-Understand how the attacks can be performed
-take notes for future reference
-Disclaimer
-For educational purposes only, use it at your own responsibility.
-
-Intrusion Kill Chain
-KillChain
-
 Mapping the Network
 RunFinger.py
 Gather information about the Domain name and windows machine running in the network
